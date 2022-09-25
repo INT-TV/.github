@@ -1,5 +1,5 @@
 # INT.TV
-View the development process and open-source repositories for the all-new streaming service INT.TV, the brainchild of [https://lizardi.dev](Devin Lizardi) and [#](Royan Ramdeen). 
+View the development process and open-source repositories for the all-new streaming service INT.TV, the brainchild of [Devin Lizardi](https://lizardi.dev) and [Royan Ramdeen](#). 
 
 ## What is INT.TV
 INT.TV is a growth-driven streaming platform, a new framework for new creators to connect to a new audience and each other.
